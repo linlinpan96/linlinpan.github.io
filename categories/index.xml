@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lin Lin Pan</title>
-    <link>https://example.org/categories/</link>
+    <link>https://linlinpan96.github.io/linlinpan.github.io/categories/</link>
     <description>Recent content in Categories on Lin Lin Pan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://linlinpan96.github.io/linlinpan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dailys</title>
-      <link>https://example.org/categories/dailys/</link>
+      <link>https://linlinpan96.github.io/linlinpan.github.io/categories/dailys/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/dailys/</guid>
+      <guid>https://linlinpan96.github.io/linlinpan.github.io/categories/dailys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoughts</title>
-      <link>https://example.org/categories/thoughts/</link>
+      <link>https://linlinpan96.github.io/linlinpan.github.io/categories/thoughts/</link>
       <pubDate>Thu, 24 Jan 2019 17:35:21 -0500</pubDate>
       
-      <guid>https://example.org/categories/thoughts/</guid>
+      <guid>https://linlinpan96.github.io/linlinpan.github.io/categories/thoughts/</guid>
       <description></description>
     </item>
     
